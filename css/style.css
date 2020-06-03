@@ -1,0 +1,21 @@
+  a {
+     color: #0a97b0;
+  }
+
+  a:hover {
+    color: #4cd3c2;
+  }
+
+  body {
+    background-color: #faeee7;
+  }
+
+  hr {
+    text-align: left;
+    margin-left: 0;
+    border-color: #f54291;
+    border-width: 3px;
+    border-style: none;
+    border-top-style: dotted;
+    width: 40%;
+  }
